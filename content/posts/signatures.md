@@ -23,6 +23,7 @@ draft: false
 - hanemile (@hanemile)
 - Ali Rizvi (@frontear)
 - xenia (@xeniarose)
+- Dave Anderson (@danderson)
 
 <!-- Insert your signature above here, using the format above.>
 
