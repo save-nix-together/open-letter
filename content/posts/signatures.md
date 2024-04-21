@@ -12,6 +12,7 @@ draft: false
 - Irenes (@IreneKnapp)
 - clerie (@clerie)
 - @hertog@tech.lgbt (Hertog@fsfe.org)
+- KamilaBorowska <kamila@borowska.pw>
 
 <!-- Insert your signature above here, using the format above.>
 
