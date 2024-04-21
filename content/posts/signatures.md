@@ -13,6 +13,8 @@ draft: false
 - clerie (@clerie)
 - @hertog@tech.lgbt (Hertog@fsfe.org)
 - Jacob A Tice (jacob.a.tice@gmail.com)
+- SED4906 (@sed@social.restless.systems)
+
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
