@@ -21,6 +21,7 @@ draft: false
 - Jay W. (@deviantsemicolon)
 - Kayla (@firestack)
 - hanemile (@hanemile)
+- Ali Rizvi (@frontear)
 
 <!-- Insert your signature above here, using the format above.>
 
