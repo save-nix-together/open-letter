@@ -5,6 +5,7 @@ draft: false
 ---
 
 - @ktemkin <kate@ktemk.in>
+- @Qyriad <qyriad@qyriad.me>
 
 <!-- Insert your signature above here, using the format above.>
 
