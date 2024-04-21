@@ -354,8 +354,7 @@ Does DetSys own CppNix? Not on paper, but in practice and certainly in users' mi
 
 Relatedly, the [Nix repo now depends on the DetSys installer](https://github.com/NixOS/nix/pull/10339) by his PR.
 
-<details>
-<summary>Details on the installer issues</summary>
+#### Details on the installer issues
 
 N.B. We also notice that the website has a different version than was installed, but we understand this was due to website migration.
 
@@ -383,7 +382,6 @@ Bugs:
 - https://github.com/NixOS/nix/issues/10109
 - https://github.com/NixOS/nix/issues/9981
 
-</details>
 
 # Conclusion
 
