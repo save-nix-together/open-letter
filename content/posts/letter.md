@@ -377,7 +377,7 @@ Bugs:
 
 # Conclusion
 
-We are all tired. Everything about dealing with this months-long crisis is burning everyone out. We are sure it is burning you out too. We are writing this because we care about the community, *believe it can change*, and we want structural change so that the community does not imminently collapse. We are sending this to you privately because we want to help you avoid more deeply painful public incidents that *will* happen by inaction.
+We are all tired. Everything about dealing with this months-long crisis is burning everyone out. We are sure it is burning you out too. We are writing this because we care about the community, *believe it can change*, and we want structural change so that the community does not imminently collapse.
 
 Although Eelco has made significant contributions to the ecosystem, he is also actively blocking progress on extinguishing practically all the current fires at the Foundation *and* in CppNix.
 
