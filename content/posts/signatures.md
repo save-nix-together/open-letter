@@ -6,6 +6,10 @@ draft: false
 
 - @ktemkin <kate@ktemk.in>
 - @Qyriad <qyriad@qyriad.me>
+- jade <jade@jade.fyi>
+- Lunaphied <lunaphied@lunaphied.me>
+- kiara <kiara@bij1.org>
+
 
 <!-- Insert your signature above here, using the format above.>
 
