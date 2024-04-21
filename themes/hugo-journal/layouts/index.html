@@ -1,0 +1,13 @@
+{{ partial "top.html" . }}
+
+  {{ with (index (where site.RegularPages "Type" "posts").ByDate 2) }}
+    {{ .Content }}
+  {{ end }}
+  {{ with (index (where site.RegularPages "Type" "posts").ByDate 0) }}
+    {{ .Content }}
+  {{ end }}
+  {{ with (index (where site.RegularPages "Type" "posts").ByDate 1) }}
+    {{ .Content }}
+  {{ end }}
+
+{{ partial "bottom.html" . }}

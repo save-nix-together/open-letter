@@ -1,0 +1,8 @@
+{{- $id := printf "spoiler-%d" .Ordinal -}}
+<details class="spoiler {{ .Get "class" }}" {{ with .Get "style" }}style="{{ . | safeCSS }}"{{ end }} id="{{$id}}">
+    <summary>Click to view ToC</summary>
+    <aside class="toc">
+        <a class="toc-header">Table of content</a>
+        {{ .Page.TableOfContents }}
+    </aside>
+</details>

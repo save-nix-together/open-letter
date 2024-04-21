@@ -1,0 +1,10 @@
+/public/
+/resources/_gen/
+
+hugo.exe
+hugo.linux
+hugo.darwin
+vendor
+themes/hugo-journal/.sass_cache
+.vscode
+.DS_Store
