@@ -12,6 +12,7 @@ draft: false
 - Irenes (@IreneKnapp)
 - clerie (@clerie)
 - @hertog@tech.lgbt (Hertog@fsfe.org)
+- Jacob A Tice (jacob.a.tice@gmail.com)
 - KamilaBorowska <kamila@borowska.pw>
 - SED4906 (@sed@social.restless.systems)
 
