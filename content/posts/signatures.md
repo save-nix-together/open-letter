@@ -17,6 +17,7 @@ draft: false
 - SED4906 (@sed@social.restless.systems)
 - Haydon Welsh (haydonwelsh@proton.me)
 - gmemstr (@gmemstr)
+- Jay W. (@deviantsemicolon)
 
 <!-- Insert your signature above here, using the format above.>
 
