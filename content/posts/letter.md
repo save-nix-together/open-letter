@@ -283,26 +283,18 @@ Eelco ignored repeated calls to disclose anything about whether he has a conflic
 
 Graham claimed they have NDAs preventing them from disclosing whether they are entangled with Anduril.
 
-<details>
-<summary>
-Tweet thread of that claim
+##### Tweet thread of that claim
 </summary>
     
 https://twitter.com/grhmc/status/1778386025007460682
 
 ![](/post-media/9bec220c-702b-42b2-acd7-f6115d36ca13.png)
     
-</details>
-
-<details>
-<summary>
-Re: Graham compromising morals over time
-</summary>
+##### Re: Graham compromising morals over time
     
 https://twitter.com/grhmc/status/1778074259757191558
 ![](/post-media/18f1ea2d-ab24-411c-8256-8cd9eee651dc.png)
     
-</details>
 
 At no point has Eelco declared or said anything about this conflict of interest, whether by confirming or denying it or recusing himself from related discussions, in spite of it potentially existing since the very founding of DetSys in 2021. This is totally unacceptable behaviour for a board member of a non-profit organization and is potentially legally troublesome for the Foundation.
 
