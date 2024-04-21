@@ -15,6 +15,7 @@ draft: false
 - Jacob A Tice (jacob.a.tice@gmail.com)
 - KamilaBorowska <kamila@borowska.pw>
 - SED4906 (@sed@social.restless.systems)
+- Haydon Welsh (haydonwelsh@proton.me)
 
 <!-- Insert your signature above here, using the format above.>
 
