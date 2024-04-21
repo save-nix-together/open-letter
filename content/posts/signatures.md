@@ -11,7 +11,7 @@ draft: false
 - kiara <kiara@bij1.org>
 - Irenes (@IreneKnapp)
 - clerie (@clerie)
-
+- @hertog@tech.lgbt (Hertog@fsfe.org)
 
 <!-- Insert your signature above here, using the format above.>
 
