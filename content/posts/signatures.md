@@ -6,7 +6,7 @@ draft: false
 
 - @ktemkin <kate@ktemk.in>
 - @Qyriad <qyriad@qyriad.me>
-- jade <jade@jade.fyi>
+- jade ([@lf-](https://github.com/lf-))
 - Lunaphied <lunaphied@lunaphied.me>
 - kiara <kiara@bij1.org>
 - Irenes (@IreneKnapp)
