@@ -13,6 +13,7 @@ draft: false
 - clerie (@clerie)
 - @hertog@tech.lgbt (Hertog@fsfe.org)
 - KamilaBorowska <kamila@borowska.pw>
+- SED4906 (@sed@social.restless.systems)
 
 <!-- Insert your signature above here, using the format above.>
 
