@@ -6,4 +6,9 @@ The full content of the letter can be viewed at [save-nix-together.org](https://
 
 This is the singing repo for the _open letter to the NixOS foundation_.
 
-You can [sign the open letter](https://github.com/save-nix-together/open-letter/edit/main/content/posts/signatures.md) by adding your name above the line, then using the **green button** at the top right to create a new pull request adding your signature.
+You can [sign the open letter here](https://github.com/save-nix-together/open-letter/edit/main/content/posts/signatures.md):
+
+- If GitHub asks you to fork the letter, press the green button in the center to do so.
+- Add your signature anywhere on the list. It can be anything -- handle + email, name + email, just handle, just name, etc.
+- Click the green "commit changes" button at the top right.
+- Click green "_propose changes_" button on the dialog that appears to open a PR.
