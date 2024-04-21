@@ -93,3 +93,8 @@ h2 {
 div.container {
   max-width: 48rem !important;
 }
+
+.addSignature {
+  font-size: 1.5rem;
+  color: #517eb7;
+}

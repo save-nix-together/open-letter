@@ -22,7 +22,7 @@ We believe that without action on Eelco fundamentally changing his relationship 
 
 We are all tired. Everything about dealing with this months-long crisis is burning everyone out. We are sure it is burning you out too. We are writing this because we care about the community, *believe it can change*, and we want structural change so that the community does not imminently collapse. We are sending this to you privately because we want to help you avoid more deeply painful public incidents that *will* happen by inaction.
 
-The signatories of this document intend to switch to, as well as actively support, any fork efforts for the entire Nix community unless something significantly changes soon. If there is no satisfying progress in action on Eelco's resignation from positions of authority in all parts of the Nix project by **Wednesday May 1, 2024**, we intend for this letter to enter wider circulation.
+The signatories of this document intend to switch to, as well as actively support, any fork efforts for the entire Nix community unless something significantly changes soon. If there is no satisfying progress in action on Eelco's resignation from positions of authority in all parts of the Nix project by **Wednesday May 1, 2024**, we intend to ensure this letter to reaches a wide audience.
 
 # Contents
 
@@ -401,7 +401,7 @@ This is a present in which people don't have the patience for Eelco to figure ou
 
 The need for reform in terms of listening to the community and making the community safe is existential, or you will not have a community anymore. You may have two, or zero, depending on how you count. The community needs to see visible evidence that change is being worked on with committment and dedication.
 
-The signatories of this document intend to switch to, as well as actively support, any fork efforts for the entire Nix community unless something significantly changes soon. If there is no satisfying progress in action on Eelco's resignation from positions of authority in all parts of the Nix project by **Wednesday May 1, 2024**, we intend to publish this document as an open letter, alongside any responses.
+The signatories of this document intend to switch to, as well as actively support, any fork efforts for the entire Nix community unless something significantly changes soon. If there is no satisfying progress in action on Eelco's resignation from positions of authority in all parts of the Nix project by **Wednesday May 1, 2024**, we intend to ensure this letter to reaches a wide audience.
 
 It is now up to you to commit to changing.
 

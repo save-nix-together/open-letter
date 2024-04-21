@@ -16,3 +16,4 @@ draft: false
 > ![editor's signature](/post-media/editor_signature.png)  
 > -- KA, Editor
 
+[Already read? Consider adding your signature!](https://github.com/save-nix-together/open-letter/edit/main/content/posts/signatures.md)

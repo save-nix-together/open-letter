@@ -4,8 +4,7 @@
           <link itemprop="url" href="{{ .Site.BaseURL }}">
           <br>
 
-          <a itemprop="sameAs" href="https://github.com/save-nix-together" title="Sign">Add a signature.</a>
-
+		  <a class="addSignature" itemprop="sameAs" href="https://github.com/save-nix-together/open-letter/edit/main/content/posts/signatures.md" title="Sign">Agree with this? Consider adding your signature!</a>
 
           {{ if isset .Site.Params "githubusername" -}}
           <a itemprop="sameAs" href="https://github.com/{{ .Site.Params.githubUsername }}" title="GitHub">GitHub</a>
