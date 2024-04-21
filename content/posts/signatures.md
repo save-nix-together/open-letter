@@ -17,6 +17,7 @@ draft: false
 - SED4906 (@sed@social.restless.systems)
 - Haydon Welsh (haydonwelsh@proton.me)
 - gmemstr (@gmemstr)
+- Sefa Eyeoglu (contact@scrumplex.net)
 - Jay W. (@deviantsemicolon)
 - Kayla (@firestack)
 - hanemile (@hanemile)
