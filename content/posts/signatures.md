@@ -32,6 +32,7 @@ draft: false
 - Zachary Myers (@zackartz)
 - @Anomalocaridid
 - Federico Damián Schonborn (@FedericoSchonborn)
+- Léana Chiang ([@leana8959](https://github.com/leana8959))
 
 <!-- Insert your signature above here, using the format above.>
 
