@@ -32,6 +32,7 @@ draft: false
 - Zachary Myers (@zackartz)
 - @Anomalocaridid
 - Federico Damián Schonborn (@FedericoSchonborn)
+- lychee ([@itslychee](https://github.com/itslychee))
 
 <!-- Insert your signature above here, using the format above.>
 
