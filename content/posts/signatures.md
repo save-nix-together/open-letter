@@ -32,6 +32,7 @@ draft: false
 - Zachary Myers (@zackartz)
 - @Anomalocaridid
 - Federico Damián Schonborn (@FedericoSchonborn)
+- Amelia Cuss ([@kivikakk](https://github.com/kivikakk))
 - @taffarel55 <contact@taffarel.tech>
 - Léana Chiang ([@leana8959](https://github.com/leana8959))
 
