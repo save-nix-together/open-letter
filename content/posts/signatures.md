@@ -32,6 +32,7 @@ draft: false
 - Zachary Myers (@zackartz)
 - @Anomalocaridid
 - Federico Damián Schonborn (@FedericoSchonborn)
+- Mario Rodas (@marsam)
 
 <!-- Insert your signature above here, using the format above.>
 
