@@ -32,7 +32,7 @@ draft: false
 - Zachary Myers (@zackartz)
 - @Anomalocaridid
 - Federico Damián Schonborn (@FedericoSchonborn)
-
+- Jacob P.
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
