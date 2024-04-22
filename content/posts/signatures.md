@@ -34,6 +34,7 @@ draft: false
 - Federico Damián Schonborn (@FedericoSchonborn)
 - lychee ([@itslychee](https://github.com/itslychee))
 - Jacob P.
+- Xe Iaso ([@Xe](https://github.com/Xe))
 - Ruby Iris Juric ([srxl](https://srxl.me))
 - Mario Rodas (@marsam)
 - Emily Kho ([@Zt-freak](https://github.com/Zt-freak)) <apodemus@bij1.org>
