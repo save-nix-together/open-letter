@@ -43,6 +43,7 @@ draft: false
 - @taffarel55 <contact@taffarel.tech>
 - Léana Chiang ([@leana8959](https://github.com/leana8959))
 - Noon van der Silk ([@silky](https://github.com/silky))
+- Artemis Tosini <me@artem.ist>
 
 <!-- Insert your signature above here, using the format above.>
 
