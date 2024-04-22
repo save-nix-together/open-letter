@@ -55,6 +55,7 @@ draft: false
 - Vera Aguilera Puerto ([@Zumorica](https://github.com/Zumorica))
 - @pasqui23
 - Anselm Schüler (GitHub: [@schuelermine](https://github.com/schuelermine))
+- Nasado ([nasado.name](https://nasado.name))
 
 - Tobi ([@gilligan](https://github.com/gilligan))
 <!-- Insert your signature above here, using the format above.>
