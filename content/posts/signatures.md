@@ -56,8 +56,8 @@ draft: false
 - @pasqui23
 - Anselm Schüler (GitHub: [@schuelermine](https://github.com/schuelermine))
 - Nasado ([nasado.name](https://nasado.name))
-
 - Tobi ([@gilligan](https://github.com/gilligan))
+- Corbin (@corbin@defcon.social)
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
