@@ -31,6 +31,7 @@ draft: false
 - merspieler (@merspieler)
 - Zachary Myers (@zackartz)
 - @Anomalocaridid
+- Federico Damián Schonborn (@FedericoSchonborn)
 
 <!-- Insert your signature above here, using the format above.>
 
