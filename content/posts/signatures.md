@@ -27,6 +27,7 @@ draft: false
 - Evie Ciobanu ([@eviefp](https://github.com/eviefp))
 - @self ([@self@awful.systems](https://awful.systems/))
 - nat (@surfaceflinger)
+- Andreas Fuchs ([@antifuchs](https://github.com/antifuchs))
 
 <!-- Insert your signature above here, using the format above.>
 
