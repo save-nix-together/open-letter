@@ -44,8 +44,11 @@ draft: false
 - Léana Chiang ([@leana8959](https://github.com/leana8959))
 - Noon van der Silk ([@silky](https://github.com/silky))
 - Artemis Tosini <me@artem.ist>
+- Matthias Schuster (@ShalokShalom)
 - brodavi (@brodavi)
 - Aria Nolan <aria@chytrid.org>
+- Kate Iykkes <https://github.com/saori-yuko>
+- Vera Aguilera Puerto ([@Zumorica](https://github.com/Zumorica))
 
 <!-- Insert your signature above here, using the format above.>
 
