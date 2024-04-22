@@ -54,6 +54,7 @@ draft: false
 - Kate Iykkes <https://github.com/saori-yuko>
 - Vera Aguilera Puerto ([@Zumorica](https://github.com/Zumorica))
 - @pasqui23
+- Anselm Schüler (GitHub: [@schuelermine](https://github.com/schuelermine))
 
 <!-- Insert your signature above here, using the format above.>
 
