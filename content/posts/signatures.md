@@ -45,6 +45,7 @@ draft: false
 - Noon van der Silk ([@silky](https://github.com/silky))
 - Artemis Tosini <me@artem.ist>
 - brodavi (@brodavi)
+- Vera Aguilera Puerto ([@Zumorica](https://github.com/Zumorica))
 
 <!-- Insert your signature above here, using the format above.>
 
