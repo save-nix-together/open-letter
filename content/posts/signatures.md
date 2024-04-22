@@ -32,6 +32,7 @@ draft: false
 - Zachary Myers (@zackartz)
 - @Anomalocaridid
 - Federico Damián Schonborn (@FedericoSchonborn)
+- Jacob P.
 - Ruby Iris Juric ([srxl](https://srxl.me))
 - Mario Rodas (@marsam)
 - Emily Kho ([@Zt-freak](https://github.com/Zt-freak)) <apodemus@bij1.org>
@@ -39,6 +40,7 @@ draft: false
 - Amelia Cuss ([@kivikakk](https://github.com/kivikakk))
 - @taffarel55 <contact@taffarel.tech>
 - Léana Chiang ([@leana8959](https://github.com/leana8959))
+
 
 <!-- Insert your signature above here, using the format above.>
 
