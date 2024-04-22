@@ -28,6 +28,7 @@ draft: false
 - @self ([@self@awful.systems](https://awful.systems/))
 - nat (@surfaceflinger)
 - Andreas Fuchs ([@antifuchs](https://github.com/antifuchs))
+- merspieler (@merspieler)
 
 <!-- Insert your signature above here, using the format above.>
 
