@@ -32,6 +32,7 @@ draft: false
 - Zachary Myers (@zackartz)
 - @Anomalocaridid
 - Federico Damián Schonborn (@FedericoSchonborn)
+- Emily Kho ([@Zt-freak](https://github.com/Zt-freak)) <apodemus@bij1.org>
 - Seti (@ikselven)
 - Amelia Cuss ([@kivikakk](https://github.com/kivikakk))
 - @taffarel55 <contact@taffarel.tech>
