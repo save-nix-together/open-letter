@@ -32,6 +32,7 @@ draft: false
 - Zachary Myers (@zackartz)
 - @Anomalocaridid
 - Federico Damián Schonborn (@FedericoSchonborn)
+- Ruby Iris Juric ([srxl](https://srxl.me))
 - Mario Rodas (@marsam)
 - Emily Kho ([@Zt-freak](https://github.com/Zt-freak)) <apodemus@bij1.org>
 - Seti (@ikselven)
