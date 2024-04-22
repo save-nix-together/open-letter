@@ -30,6 +30,7 @@ draft: false
 - Andreas Fuchs ([@antifuchs](https://github.com/antifuchs))
 - merspieler (@merspieler)
 - Zachary Myers (@zackartz)
+- @Anomalocaridid
 
 <!-- Insert your signature above here, using the format above.>
 
