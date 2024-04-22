@@ -24,6 +24,7 @@ draft: false
 - Ali Rizvi (@frontear)
 - xenia (@xeniarose)
 - Dave Anderson (@danderson)
+- Evie Ciobanu ([@eviefp](https://github.com/eviefp))
 
 <!-- Insert your signature above here, using the format above.>
 
