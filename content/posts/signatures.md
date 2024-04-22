@@ -29,6 +29,7 @@ draft: false
 - nat (@surfaceflinger)
 - Andreas Fuchs ([@antifuchs](https://github.com/antifuchs))
 - merspieler (@merspieler)
+- Zachary Myers (@zackartz)
 
 <!-- Insert your signature above here, using the format above.>
 
