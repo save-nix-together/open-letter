@@ -46,6 +46,7 @@ draft: false
 - Artemis Tosini <me@artem.ist>
 - Matthias Schuster (@ShalokShalom)
 - brodavi (@brodavi)
+- Kate Iykkes <https://github.com/saori-yuko>
 - Vera Aguilera Puerto ([@Zumorica](https://github.com/Zumorica))
 
 <!-- Insert your signature above here, using the format above.>
