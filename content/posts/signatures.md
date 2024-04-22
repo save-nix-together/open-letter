@@ -44,6 +44,7 @@ draft: false
 - Léana Chiang ([@leana8959](https://github.com/leana8959))
 - Noon van der Silk ([@silky](https://github.com/silky))
 - Artemis Tosini <me@artem.ist>
+- Thomas "Diana" Depierre ([@DianaOlympos](https://github.com/DianaOlympos))
 - Matthias Schuster (@ShalokShalom)
 - brodavi (@brodavi)
 - Aria Nolan <aria@chytrid.org>
