@@ -32,6 +32,7 @@ draft: false
 - Zachary Myers (@zackartz)
 - @Anomalocaridid
 - Federico Damián Schonborn (@FedericoSchonborn)
+- @taffarel55 <contact@taffarel.tech>
 
 <!-- Insert your signature above here, using the format above.>
 
