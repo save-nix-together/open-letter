@@ -53,6 +53,7 @@ draft: false
 - Aria Nolan <aria@chytrid.org>
 - Kate Iykkes <https://github.com/saori-yuko>
 - Vera Aguilera Puerto ([@Zumorica](https://github.com/Zumorica))
+- @pasqui23
 
 <!-- Insert your signature above here, using the format above.>
 
