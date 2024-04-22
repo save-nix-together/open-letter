@@ -45,6 +45,7 @@ draft: false
 - Noon van der Silk ([@silky](https://github.com/silky))
 - Artemis Tosini <me@artem.ist>
 - brodavi (@brodavi)
+- Kate Iykkes <https://github.com/saori-yuko>
 
 <!-- Insert your signature above here, using the format above.>
 
