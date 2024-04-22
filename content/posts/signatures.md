@@ -32,6 +32,7 @@ draft: false
 - Zachary Myers (@zackartz)
 - @Anomalocaridid
 - Federico Damián Schonborn (@FedericoSchonborn)
+- Amelia Cuss ([@kivikakk](https://github.com/kivikakk))
 
 <!-- Insert your signature above here, using the format above.>
 
