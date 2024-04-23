@@ -62,6 +62,7 @@ draft: false
 - Jake Hamilton ([@jakehamilton](https://github.com/jakehamilton))
 - Tulip ([@tulilirockz](https://github.com/tulilirockz))
 - ves ([@vesdev](https://github.com/vesdev))
+- Delan Azabani &lt;delan@azabani.com>
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
