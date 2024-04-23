@@ -58,6 +58,7 @@ draft: false
 - Nasado ([nasado.name](https://nasado.name))
 - Tobi ([@gilligan](https://github.com/gilligan))
 - Corbin (@corbin@defcon.social)
+- Dusk Banks <me@bb010g.com> ([@bb010g](https://github.com/bb010g))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
