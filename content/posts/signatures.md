@@ -63,6 +63,7 @@ draft: false
 - Tulip ([@tulilirockz](https://github.com/tulilirockz))
 - ves ([@vesdev](https://github.com/vesdev))
 - Delan Azabani &lt;delan@azabani.com>
+- Stéphan Kochen ([@stephank](https://github.com/stephank))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
