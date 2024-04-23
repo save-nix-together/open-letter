@@ -60,6 +60,7 @@ draft: false
 - Corbin (@corbin@defcon.social)
 - Dusk Banks <me@bb010g.com> ([@bb010g](https://github.com/bb010g))
 - Jake Hamilton ([@jakehamilton](https://github.com/jakehamilton))
+- Tulip ([@tulilirockz](https://github.com/tulilirockz))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
