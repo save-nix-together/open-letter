@@ -73,6 +73,7 @@ draft: false
 - Reyu Zenfold ([@Reyu](https://github.com/Reyu))
 - Sapphic Angels ([@SapphicMoe](https://github.com/SapphicMoe))
 - Laishram Siddarth ([@Sid-Lais](https://github.com/Sid-Lais))
+- ash lea (@ashkitten)
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
