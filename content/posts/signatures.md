@@ -72,6 +72,7 @@ draft: false
 - Leslie-Alexandre ([@eagleusb](https://github.com/eagleusb))
 - Reyu Zenfold ([@Reyu](https://github.com/Reyu))
 - Sapphic Angels ([@SapphicMoe](https://github.com/SapphicMoe))
+- Laishram Siddarth ([@Sid-Lais](https://github.com/Sid-Lais))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
