@@ -66,6 +66,7 @@ draft: false
 - Stéphan Kochen ([@stephank](https://github.com/stephank))
 - Isabel Roses [@isabelroses](https://github.com/isabelroses)
 - Austreelis <dev@austreelis.net> (@austreelis)
+- Swastik Baranwal ([@Delta456](https://github.com/Delta456))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
