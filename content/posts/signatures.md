@@ -70,6 +70,7 @@ draft: false
 - Amy ([@nullishamy](https://github.com/nullishamy/))
 - pinkcreeper100 ([@pinkcreeper100](https://github.com/pinkcreeper100))
 - Leslie-Alexandre ([@eagleusb](https://github.com/eagleusb))
+- Reyu Zenfold ([@Reyu](https://github.com/Reyu))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
