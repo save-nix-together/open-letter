@@ -75,6 +75,7 @@ draft: false
 - Laishram Siddarth ([@Sid-Lais](https://github.com/Sid-Lais))
 - ash lea (@ashkitten)
 - Evan Richter ([@evanrichter](https://github.com/evanrichter))
+- Yvan Sraka ([@yvan-sraka](https://github.com/yvan-sraka))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
