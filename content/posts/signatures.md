@@ -80,6 +80,7 @@ draft: false
 - Benoît de Chezelles ([@bew](https://github.com/bew))
 - Ryze ([@ryze312](https://github.com/ryze312))
 - robin ([@comfysage](https://github.com/comfysage))
+- Yulia Sireneva ([@yuki0iq](https://github.com/yuki0iq)
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
