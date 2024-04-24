@@ -76,6 +76,7 @@ draft: false
 - ash lea (@ashkitten)
 - Evan Richter ([@evanrichter](https://github.com/evanrichter))
 - Yvan Sraka ([@yvan-sraka](https://github.com/yvan-sraka))
+- 0fie ([@0fie](https://github.com/0fie))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
