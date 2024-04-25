@@ -70,6 +70,7 @@ draft: false
 - Amy ([@nullishamy](https://github.com/nullishamy/))
 - pinkcreeper100 ([@pinkcreeper100](https://github.com/pinkcreeper100))
 - Leslie-Alexandre ([@eagleusb](https://github.com/eagleusb))
+- Guilhem Saurel ([@nim65s](https://github.com/nim65s/))
 - Reyu Zenfold ([@Reyu](https://github.com/Reyu))
 - Sapphic Angels ([@SapphicMoe](https://github.com/SapphicMoe))
 - Laishram Siddarth ([@Sid-Lais](https://github.com/Sid-Lais))
