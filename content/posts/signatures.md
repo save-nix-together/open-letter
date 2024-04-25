@@ -93,6 +93,7 @@ draft: false
 - Maxine Aubrey ([@amaxine](https://github.com/amaxine))
 - Charles Hall ([@CobaltCause](https://github.com/CobaltCause))
 - KFears ([@KFearsoff](https://github.com/KFearsoff))
+- ocfox ([@ocfox](https://github.com/ocfox))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
