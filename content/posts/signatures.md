@@ -98,6 +98,7 @@ draft: false
 - Alaric Snell-Pym ([website](https://www.snell-pym.org.uk/alaric/))
 - Lisbeth Mulholland ([@selectric401](https://github.com/selectric401))
 - blue linden ([.art](https://bluelinden.art))
+- [@yusdacra](https://github.com/yusdacra)
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
