@@ -87,6 +87,7 @@ draft: false
 - June (strawberry) ([@girlbossceo](https://girlboss.ceo))
 - Ellie ([@eleonora](https://eleonora.gay))
 - Danielle Lancashire ([@endocrimes](https://github.com/endocrimes))
+- Maxine Aubrey ([@amaxine](https://github.com/amaxine))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
