@@ -84,6 +84,7 @@ draft: false
 - Vigress ([@vigress8](https://github.com/vigress8))
 - Philip Nelson ([@blu3r4d0n])(https://shutdown.network/links.html))
 - ZharMeny ([@ZharMeny](https://github.com/ZharMeny))
+- June (strawberry) ([@girlbossceo](https://girlboss.ceo))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
