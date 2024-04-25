@@ -82,7 +82,7 @@ draft: false
 - robin ([@comfysage](https://github.com/comfysage))
 - Yulia Sireneva ([@yuki0iq](https://github.com/yuki0iq)
 - Vigress ([@vigress8](https://github.com/vigress8))
-- Philip Nelson ([@blu3r4d0n)(https://shutdown.network/links.html))
+- Philip Nelson ([@blu3r4d0n])(https://shutdown.network/links.html))
 - ZharMeny ([@ZharMeny](https://github.com/ZharMeny))
 <!-- Insert your signature above here, using the format above.>
 
