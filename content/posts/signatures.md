@@ -95,6 +95,7 @@ draft: false
 - KFears ([@KFearsoff](https://github.com/KFearsoff))
 - ocfox ([@ocfox](https://github.com/ocfox))
 - Andrei Jiroh Halili ([@ajhalili2006](https://wiki.recaptime.dev/profile/ajhalili2006))
+- Alaric Snell-Pym ([website](https://www.snell-pym.org.uk/alaric/))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
