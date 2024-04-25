@@ -92,6 +92,7 @@ draft: false
 - Danielle Lancashire ([@endocrimes](https://github.com/endocrimes))
 - Maxine Aubrey ([@amaxine](https://github.com/amaxine))
 - Charles Hall ([@CobaltCause](https://github.com/CobaltCause))
+- KFears ([@KFearsoff](https://github.com/KFearsoff))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
