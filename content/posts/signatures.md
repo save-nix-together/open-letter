@@ -118,6 +118,7 @@ draft: false
 - PineaFan ([@PineaFan](https://pinea.dev))
 - fossdd <fossdd@pwned.life>
 - lgcl ([@LogicalOverflow](https://github.com/LogicalOverflow))
+- Mars <mars@pupbrained.xyz>
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
