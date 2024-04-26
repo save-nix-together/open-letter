@@ -113,6 +113,7 @@ draft: false
 - Florian Warzecha ([@liketechnik](https://github.com/liketechnik))
 - Jorge Javier Araya Navarro ([@shackra](https://github.com/shackra))
 - Jilin Oleg ([@jilinoleg](https://codeberg.org/jilinoleg))
+- Samuel Shuert <coded@clicks.codes> ([@Coded](https://git.clicks.codes/admin/repos/q/filter:Coded))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
