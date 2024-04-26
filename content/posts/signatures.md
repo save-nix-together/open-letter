@@ -112,6 +112,7 @@ draft: false
 - Lillian Violet ([@Lillian-Violet](https://github.com/Lillian-Violet))
 - Florian Warzecha ([@liketechnik](https://github.com/liketechnik))
 - Jorge Javier Araya Navarro ([@shackra](https://github.com/shackra))
+- Jilin Oleg ([@jilinoleg](https://codeberg.org/jilinoleg))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
