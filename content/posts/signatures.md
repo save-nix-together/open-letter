@@ -108,6 +108,7 @@ draft: false
 - Simon Bruder ([@sbruder](https://sbruder.de))
 - John Garcia ([@chewblacka](https://github.com/chewblacka))
 - Anton Mosich ([@antonmosich](https://github.com/antonmosich))
+- P.O. ([@wolfangaukang](https://github.com/wolfangaukang))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
