@@ -117,6 +117,7 @@ draft: false
 - Skyler Grey ([@minion3665](https://a.starrysky.fyi))
 - PineaFan ([@PineaFan](https://pinea.dev))
 - fossdd <fossdd@pwned.life>
+- lgcl ([@LogicalOverflow](https://github.com/LogicalOverflow))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
