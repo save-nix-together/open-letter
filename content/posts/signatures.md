@@ -104,6 +104,7 @@ draft: false
 - Oleg Lebedev ([@olebedev](https://github.com/olebedev))
 - Ovyerus ([@Ovyerus](https://github.com/Ovyerus))
 - Thomas Mühlbacher ([@tmuehlbacher](https://github.com/tmuehlbacher))
+- Cassandra Phoenix ([@SapphicCode](https://github.com/SapphicCode))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
