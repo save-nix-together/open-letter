@@ -109,6 +109,7 @@ draft: false
 - John Garcia ([@chewblacka](https://github.com/chewblacka))
 - Anton Mosich ([@antonmosich](https://github.com/antonmosich))
 - P.O. ([@wolfangaukang](https://github.com/wolfangaukang))
+- Lillian Violet ([@Lillian-Violet](https://github.com/Lillian-Violet))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
