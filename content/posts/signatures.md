@@ -100,6 +100,7 @@ draft: false
 - blue linden ([.art](https://bluelinden.art))
 - [@yusdacra](https://github.com/yusdacra)
 - Maximilian Marx ([@mmarx](https://github.com/mmarx))
+- artemis everfree ([artemis.sh](https://artemis.sh/))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
