@@ -102,6 +102,7 @@ draft: false
 - Maximilian Marx ([@mmarx](https://github.com/mmarx))
 - artemis everfree ([artemis.sh](https://artemis.sh/))
 - Oleg Lebedev ([@olebedev](https://github.com/olebedev))
+- Ovyerus ([@Ovyerus](https://github.com/Ovyerus))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
