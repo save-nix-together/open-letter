@@ -116,6 +116,7 @@ draft: false
 - Samuel Shuert <coded@clicks.codes> ([@Coded](https://git.clicks.codes/admin/repos/q/filter:Coded))
 - Skyler Grey ([@minion3665](https://a.starrysky.fyi))
 - PineaFan ([@PineaFan](https://pinea.dev))
+- fossdd <fossdd@pwned.life>
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
