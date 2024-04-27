@@ -119,6 +119,7 @@ draft: false
 - fossdd <fossdd@pwned.life>
 - lgcl ([@LogicalOverflow](https://github.com/LogicalOverflow))
 - Mars <mars@pupbrained.xyz>
+- April ([@april83c](https://github.com/april83c))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
