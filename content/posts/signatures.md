@@ -120,6 +120,7 @@ draft: false
 - Mars <mars@pupbrained.xyz>
 - April ([@april83c](https://github.com/april83c))
 - Willow ([@wiillou](https://github.com/wiillou))
+- [@fee1-dead](https://github.com/fee1-dead)
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
