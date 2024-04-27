@@ -122,6 +122,7 @@ draft: false
 - Willow ([@wiillou](https://github.com/wiillou))
 - [@fee1-dead](https://github.com/fee1-dead)
 - Gutyina Gergő ([@gepbird](https://github.com/gepbird))
+- Caleb Gingles ([@nairou](https://github.com/nairou))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
