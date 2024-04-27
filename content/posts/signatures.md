@@ -127,6 +127,7 @@ draft: false
 - Caleb Gingles ([@nairou](https://github.com/nairou))
 - fwam [@fwam](https://github.com/fwam)
 - 7h3730b ([@7h3730b](https://github.com/7h3730b))
+- mj ([@jee-mj](https://github.com/jee-mj/))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
