@@ -111,7 +111,6 @@ draft: false
 - P.O. ([@wolfangaukang](https://github.com/wolfangaukang))
 - Lillian Violet ([@Lillian-Violet](https://github.com/Lillian-Violet))
 - Florian Warzecha ([@liketechnik](https://github.com/liketechnik))
-- Jorge Javier Araya Navarro ([@shackra](https://github.com/shackra))
 - Jilin Oleg ([@jilinoleg](https://codeberg.org/jilinoleg))
 - Samuel Shuert <coded@clicks.codes> ([@Coded](https://git.clicks.codes/admin/repos/q/filter:Coded))
 - Skyler Grey ([@minion3665](https://a.starrysky.fyi))
