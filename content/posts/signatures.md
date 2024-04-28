@@ -136,6 +136,7 @@ draft: false
 - Stephen Sherratt ([@gridbugs](https://github.com/gridbugs/))
 - Jamie ([@jamie@social.memes.nz](https://social.memes.nz/@jamie))
 - Isaac Riley ([@yelircaasi](https://github.com/yelircaasi))
+- Harsh Shandilya ([@msfjarvis](https://github.com/msfjarvis))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
