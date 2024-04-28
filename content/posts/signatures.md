@@ -134,6 +134,7 @@ draft: false
 - Lily Ballard ([@lilyball](https://github.com/lilyball))
 - Martin Kühl ([@mkhl](https://github.com/mkhl))
 - Stephen Sherratt ([@gridbugs](https://github.com/gridbugs/))
+- Jamie ([@jamie@social.memes.nz](https://social.memes.nz/@jamie))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
