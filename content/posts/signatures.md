@@ -135,6 +135,7 @@ draft: false
 - Martin Kühl ([@mkhl](https://github.com/mkhl))
 - Stephen Sherratt ([@gridbugs](https://github.com/gridbugs/))
 - Jamie ([@jamie@social.memes.nz](https://social.memes.nz/@jamie))
+- Isaac Riley ([@yelircaasi](https://github.com/yelircaasi))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
