@@ -130,6 +130,7 @@ draft: false
 - mj ([@jee-mj](https://github.com/jee-mj/))
 - Ivan Petkov ([@ipetkov](https://github.com/ipetkov))
 - Amy Parker ([@amyipdev](https://github.com/amyipdev))
+- Sam Bossley ([@bossley9](https://github.com/bossley9))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
