@@ -138,6 +138,7 @@ draft: false
 - Isaac Riley ([@yelircaasi](https://github.com/yelircaasi))
 - Harsh Shandilya ([@msfjarvis](https://github.com/msfjarvis))
 - ash ([@sersorrel](https://github.com/sersorrel))
+- Diamond ([@diamondburned](https://github.com/diamondburned))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
