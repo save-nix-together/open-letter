@@ -133,6 +133,7 @@ draft: false
 - Sam Bossley ([@bossley9](https://github.com/bossley9))
 - Lily Ballard ([@lilyball](https://github.com/lilyball))
 - Martin Kühl ([@mkhl](https://github.com/mkhl))
+- Stephen Sherratt ([@gridbugs](https://github.com/gridbugs/))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
