@@ -131,6 +131,7 @@ draft: false
 - Ivan Petkov ([@ipetkov](https://github.com/ipetkov))
 - Amy Parker ([@amyipdev](https://github.com/amyipdev))
 - Sam Bossley ([@bossley9](https://github.com/bossley9))
+- Lily Ballard ([@lilyball](https://github.com/lilyball))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
