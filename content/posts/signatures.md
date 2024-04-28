@@ -139,6 +139,7 @@ draft: false
 - Harsh Shandilya ([@msfjarvis](https://github.com/msfjarvis))
 - ash ([@sersorrel](https://github.com/sersorrel))
 - Diamond ([@diamondburned](https://github.com/diamondburned))
+- Lexi ([@13x1](https://github.com/13x1))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
