@@ -142,6 +142,7 @@ draft: false
 - Lexi ([@13x1](https://github.com/13x1))
 - Vince van Oosten ([@techhazard](https://github.com/techhazard/))
 - nyawox ([@nyawox](https://github.com/nyawox))
+- Nina ([@faeranne](https://github.com/faeranne))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
