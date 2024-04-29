@@ -151,6 +151,7 @@ draft: false
 - Artemis Lena ([@artemislena](https://artemislena.eu))
 - xqtc ([@xqtc161](https://github.com/xqtc161))
 - JetpackJackson (@JetpackJackson)
+- Gergely Nagy ([@algernon](https://github.com/algernon))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
