@@ -145,6 +145,7 @@ draft: false
 - Nina ([@faeranne](https://github.com/faeranne))
 - Chuck N. ([@chuckn408](https://github.com/chuckn408))
 - Bang Lee ([@Qusic](https://github.com/Qusic))
+- Eri ([@eerii](https://github.com/eerii))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
