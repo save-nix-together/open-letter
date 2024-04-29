@@ -146,6 +146,7 @@ draft: false
 - Chuck N. ([@chuckn408](https://github.com/chuckn408))
 - Bang Lee ([@Qusic](https://github.com/Qusic))
 - Eri ([@eerii](https://github.com/eerii))
+- Willy ([@willyrgf](https://github.com/willyrgf)) 
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
