@@ -147,6 +147,7 @@ draft: false
 - Bang Lee ([@Qusic](https://github.com/Qusic))
 - Eri ([@eerii](https://github.com/eerii))
 - Willy ([@willyrgf](https://github.com/willyrgf)) 
+- Jen Stehlik ([@okkdev](https://github.com/okkdev))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
