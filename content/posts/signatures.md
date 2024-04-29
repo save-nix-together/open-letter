@@ -144,6 +144,7 @@ draft: false
 - nyawox ([@nyawox](https://github.com/nyawox))
 - Nina ([@faeranne](https://github.com/faeranne))
 - Chuck N. ([@chuckn408](https://github.com/chuckn408))
+- Bang Lee ([@Qusic](https://github.com/Qusic))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
