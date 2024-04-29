@@ -149,6 +149,7 @@ draft: false
 - Willy ([@willyrgf](https://github.com/willyrgf)) 
 - Jen Stehlik ([@okkdev](https://github.com/okkdev))
 - Artemis Lena ([@artemislena](https://artemislena.eu))
+- xqtc ([@xqtc161](https://github.com/xqtc161))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
