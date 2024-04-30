@@ -157,6 +157,7 @@ draft: false
 - Otus9051 ([@otus9051](https://github.com/otus9051))
 - marshmallow ([@mrshmllow](https://github.com/mrshmllow))
 - Quantenzitrone (<https://quantenzitrone.eu>)
+- Joscha Rohmann ([@Kanaye](https://github.com/Kanaye))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
