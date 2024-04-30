@@ -152,6 +152,7 @@ draft: false
 - xqtc ([@xqtc161](https://github.com/xqtc161))
 - JetpackJackson (@JetpackJackson)
 - Gergely Nagy ([@algernon](https://github.com/algernon))
+- Jess ([@ttrss](https://github.com/ttrssreal))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
