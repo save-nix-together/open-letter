@@ -161,6 +161,7 @@ draft: false
 - sioodmy ([@sioodmy](https://github.com/sioodmy))
 - Autumn ([@auctumnus](https://github.com/auctumnus))
 - Darrell Kundel ([@demiflat])(https://github.com/demiflat))
+- Nadia ([@nyadiia](https://github.com/nyadiia))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
