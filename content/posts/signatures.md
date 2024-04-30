@@ -154,6 +154,7 @@ draft: false
 - Gergely Nagy ([@algernon](https://github.com/algernon))
 - Jess ([@ttrss](https://github.com/ttrssreal))
 - Avocado Rider [(@sSt3lla)](https://github.com/sSt3lla)
+- Otus9051 ([@otus9051](https://github.com/otus9051))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
