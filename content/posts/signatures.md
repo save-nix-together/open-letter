@@ -153,6 +153,7 @@ draft: false
 - JetpackJackson (@JetpackJackson)
 - Gergely Nagy ([@algernon](https://github.com/algernon))
 - Jess ([@ttrss](https://github.com/ttrssreal))
+- sioodmy ([@sioodmy](https://github.com/sioodmy))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
