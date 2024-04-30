@@ -158,6 +158,7 @@ draft: false
 - marshmallow ([@mrshmllow](https://github.com/mrshmllow))
 - Quantenzitrone (<https://quantenzitrone.eu>)
 - Joscha Rohmann ([@Kanaye](https://github.com/Kanaye))
+- sioodmy ([@sioodmy](https://github.com/sioodmy))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
