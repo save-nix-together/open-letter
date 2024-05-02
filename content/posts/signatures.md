@@ -163,6 +163,7 @@ draft: false
 - Darrell Kundel ([@demiflat])(https://github.com/demiflat))
 - Nadia ([@nyadiia](https://github.com/nyadiia))
 - Misile ([@misilelab](https://github.com/misilelab))
+- Shane ([@shanehull](https://github.com/shanehull))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
