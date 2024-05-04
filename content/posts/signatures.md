@@ -164,6 +164,7 @@ draft: false
 - Nadia ([@nyadiia](https://github.com/nyadiia))
 - Misile ([@misilelab](https://github.com/misilelab))
 - Shane ([@shanehull](https://github.com/shanehull))
+- jh-devv ([@jh-devv](https://github.com/jh-devv)) <jh-devv@jh-devv.com>
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
