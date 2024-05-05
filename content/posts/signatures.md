@@ -164,6 +164,7 @@ draft: false
 - Nadia ([@nyadiia](https://github.com/nyadiia))
 - Misile ([@misilelab](https://github.com/misilelab))
 - Shane ([@shanehull](https://github.com/shanehull))
+- Victor B. ([@itsvic-dev](https://github.com/itsvic-dev))
 <!-- Insert your signature above here, using the format above.>
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
